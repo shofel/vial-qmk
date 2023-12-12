@@ -13,6 +13,9 @@
         "rows": ["F6", "F7", "B1", "B3", "B2", "B6"]
     },
     "diode_direction": "COL2ROW",
+    "bootmagic": {
+        "matrix": [0, 0]
+    },
     "split": {
         "soft_serial_pin": "D0",
         "bootmagic": {
